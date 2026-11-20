@@ -52,7 +52,7 @@ O documento registra duas etapas:
 | 7 | Retornar à tela inicial | 1 s | S | Clicou no logo do Mercado Livre |
 | | **Total** | **28 s** | **5 S / 2 N** | 2 desvios registrados |
 
-**Planilha de observação (consolidada):**
+**Planilha de observação: **
 
 | Participante | Tarefa | Tempo (s) | Sucesso | Erros | Observação |
 |---|---|---|---|---|---|
@@ -100,50 +100,8 @@ com valores estimados transformaria um piloto técnico em resultado fictício.
 - **Retorno:** o uso do logo como caminho de retorno foi imediato (1 s),
   indicando affordance clara.
 
-## 6. Questionário qualitativo e SUS
 
-Os instrumentos abaixo estavam preparados, mas **não foram aplicados ao
-participante**. Portanto, não há escore SUS nem respostas qualitativas. Essa é
-uma limitação da execução: a avaliação cobre eficiência e conclusão das
-tarefas, mas não a percepção subjetiva de usabilidade.
-
-### Formulário SUS (não aplicado)
-
-Itens, escala de 1 (discordo totalmente) a 5 (concordo totalmente):
-
-1. Eu gostaria de usar este site com frequência.
-2. Achei o site desnecessariamente complexo.
-3. O site foi fácil de usar.
-4. Acho que vou precisar de ajuda para usar este site.
-5. As várias funções do site ficaram bem organizadas.
-6. Achei que havia muita inconsistência no site.
-7. Acho que a maioria das pessoas conseguiria usar este site rapidamente.
-8. Achei o site confuso.
-9. Senti segurança ao usar o site.
-10. Preciso aprender muitas coisas antes de usar o site.
-
-Cálculo: itens ímpares, contribuição = `(resposta − 1) × 2,5`; itens pares,
-contribuição = `(5 − resposta) × 2,5`. Somar as 10 contribuições e dividir por
-10 (resultado de 0 a 100). Referência: escore ≈ 68 é a média; acima de 80,
-excelente; abaixo de 68, abaixo da média. Com 1 participante, o valor seria
-individual, não uma média estatística.
-
-### Questionário qualitativo (não aplicado)
-
-1. Como você classificaria a facilidade de encontrar o fone que procurava?
-2. Teve dificuldade para localizar os filtros "entrega Full" e "melhores avaliados"?
-3. Entendeu o que significa "entrega Full"? Houve dúvida entre Full e frete grátis?
-4. O processo de escolher um produto e abrir os detalhes foi intuitivo?
-5. Encontrou facilmente o botão de adicionar ao carrinho?
-6. A página trouxe as informações necessárias para decidir?
-7. O produto e o preço no carrinho corresponderam ao escolhido?
-8. Teve dúvida sobre como simular o início da compra sem finalizar o pagamento?
-9. Em algum momento se perdeu ou voltou mais de uma vez?
-10. Algum elemento atrapalhou a leitura ou o clique?
-11. O que mudaria para tornar o fluxo mais simples?
-12. Como avaliaria a experiência no geral?
-
-## 7. Critérios de sucesso — balanço
+## 6. Critérios de sucesso — balanço
 
 | Critério do enunciado | Resultado |
 |---|---|
@@ -152,14 +110,7 @@ individual, não uma média estatística.
 | Filtros Full e melhores avaliados aplicados | **Parcial**: Full aplicado; ordenação por avaliação não encontrada |
 | Evidências e explicação da execução | Presentes neste relatório |
 
-## 8. Recomendações
 
-1. Repetir o teste com pelo menos 10 participantes para avaliar o critério de
-   90% de sucesso; com 1 participante o resultado é apenas individual.
-2. Aplicar o formulário SUS e o questionário qualitativo na próxima execução,
-   para complementar eficiência com percepção de usabilidade.
-3. Investigar o ponto de atrito da tarefa 3: confirmar se a ordenação por
-   "melhores avaliados" existe no site e, se existir, por que não foi encontrada.
 4. Destacar as avaliações na página do produto ou torná-las mais visíveis, já
    que o participante escolheu sem consultá-las.
 5. Repetir a medição com participante sem conta autenticada, para isolar o
